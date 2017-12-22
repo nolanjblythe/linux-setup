@@ -1,1 +1,4 @@
 
+#### Nolan Linux Setup ####
+sudo apt-get install firefox code git torguard rdesktop
+
