@@ -1,4 +1,4 @@
 
 #### Nolan Linux Setup ####
-sudo apt-get install firefox code git torguard rdesktop
+sudo apt-get install openconnect openvpn code git torguard rdesktop
 
